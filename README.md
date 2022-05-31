@@ -1,5 +1,8 @@
 # GCSFUSE on Docker
 
+https://hub.docker.com/repository/docker/sstark2/docker-gcsfuse-implicit-dirs
+
+
 ## Usage
 
 ```bash
